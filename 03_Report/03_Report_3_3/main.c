@@ -11,7 +11,7 @@ int main(void)
   int nB = 0;
 
   // entering with respect to (w.r.t) the given problem
-	printf("Number Status(Even/Odd): Please input two integer numbers..\n");
+  printf("Number Status(Even/Odd): Please input two integer numbers..\n");
   scanf("%d%d", &nA, &nB);
 
   // calculating for solving the given problem
@@ -38,7 +38,6 @@ int main(void)
       }
       break;
     }
-
   }
   
   // related in C of windows (system("pause"))
